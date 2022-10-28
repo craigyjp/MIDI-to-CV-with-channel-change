@@ -1,6 +1,6 @@
 # MIDI to CV with channel switching
 
-- This repository contains the code and schematic for a DIY MIDI to CV converter. I installed this converter into a home-built analog synthesizer, allowing me to play the synthesizer with my Yamaha CP50 keyboard over MIDI.
+This repository contains the code and schematic for a DIY MIDI to CV converter. I installed this converter into a home-built analog synthesizer, allowing me to play the synthesizer with my Yamaha CP50 keyboard over MIDI.
 
 - The MIDI to CV converter includes the following outputs:
 
