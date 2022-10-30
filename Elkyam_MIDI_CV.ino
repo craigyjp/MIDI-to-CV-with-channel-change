@@ -35,7 +35,7 @@
 #define MIDI2  7
 #define MIDI3  10
 
-int MIDI_CHANNEL = 1;
+int MIDI_CHANNEL = 0;
 int SWITCH1 = 0;
 int SWITCH2 = 0;
 int SWITCH3 = 0;
